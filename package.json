@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LIRA-MIGUEL/Actividad9/issues"
   },
-  "homepage": "https://github.com/LIRA-MIGUEL/Actividad9#readme"
+  "homepage": "https://github.com/LIRA-MIGUEL/Actividad9#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
